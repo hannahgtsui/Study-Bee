@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "days": {
+    "2026-10-09": {
+      "tasks": [
+        {
+          "id": "78f3e197-e8be-4941-a54b-203b80cb85df",
+          "text": "Coop Test",
+          "done": true
+        },
+        {
+          "id": "177abb34-5168-4f85-8ba9-dce5534f3171",
+          "text": "Econ 326 understanding + notes taking",
+          "done": false
+        },
+        {
+          "id": "e3abaa16-bf9a-4996-a801-851895596797",
+          "text": "packing my entire table shelf to the boxes",
+          "done": true
+        },
+        {
+          "id": "66be8967-4530-435e-9fb3-22948bbc73bf",
+          "text": "short hair",
+          "done": true
+        },
+        {
+          "id": "b3f67a74-adaf-4679-8840-a27d055685a0",
+          "text": "Stats HW",
+          "done": true
+        },
+        {
+          "id": "24b3e031-e448-499e-86bc-6f292b1e064f",
+          "text": "Econ project",
+          "done": true
+        },
+        {
+          "id": "92e06bd8-98fa-4e11-8d60-e8dcf681db89",
+          "text": "Math HW 200",
+          "done": true
+        }
+      ],
+      "note": ""
+    },
+    "2026-10-10": {
+      "tasks": [
+        {
+          "id": "0b94752b-6aae-46b0-b8cc-85074bc79cba",
+          "text": "Econ 326 understanding notetaking",
+          "done": false
+        },
+        {
+          "id": "eb17be1a-28f1-44c4-984e-4829c8bfd8a8",
+          "text": "Econ 326 practice problems midterm 1",
+          "done": false
+        }
+      ],
+      "note": ""
+    },
+    "2026-10-14": {
+      "tasks": [
+        {
+          "id": "5f0e2c29-3fc9-4ebe-85c4-c6ef6e67842b",
+          "text": "website update numbers and costs",
+          "done": false
+        }
+      ],
+      "note": ""
+    }
+  }
+}
